@@ -1,0 +1,4 @@
+python-3.10.13
+git add runtime.txt
+git commit -m "set python version"
+git push heroku main
