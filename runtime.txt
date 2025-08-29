@@ -1,4 +1,6 @@
-python-3.10.13
-git add runtime.txt
-git commit -m "set python version"
-git push heroku main
+bot.py / main.py        # entry point bot
+requirements.txt        # semua dependencies
+runtime.txt             # tentukan Python version
+.env.example            # contoh config (token, db, dll)
+
+python-3.13.5
